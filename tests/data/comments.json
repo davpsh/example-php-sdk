@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "text": "Test message"
+    },
+    {
+      "id": 2,
+      "name": "John Doe 2",
+      "text": "Test message 2"
+    },
+    {
+      "id": 3,
+      "name": "John Doe 3",
+      "text": "Test message 3"
+    }
+  ],
+  "pages": 20,
+  "current": 1
+}
